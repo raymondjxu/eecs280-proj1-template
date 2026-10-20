@@ -6,7 +6,7 @@
 	"image": "mcr.microsoft.com/devcontainers/base:noble",
 	"features": {
 		"ghcr.io/devcontainers/features/node:1": {},
-		"ghcr.io/devcontainer-config/features/dot-config:4": { "WORKSPACES": "/workspaces" },
+		"ghcr.io/devcontainer-config/features/dot-config:5": { "WORKSPACES": "/workspaces" },
 		"ghcr.io/devcontainers/features/github-cli:1.1.2": {}
 	},
 	
